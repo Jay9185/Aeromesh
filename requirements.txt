@@ -1,0 +1,9 @@
+trimesh>=3.20.0
+osmnx>=2.0.0
+geopandas>=0.13.0
+shapely>=2.0.0
+scipy>=1.10.0
+mapbox-earcut>=1.0.0
+requests>=2.28.0
+numpy>=1.24.0
+pandas>=2.0.0
