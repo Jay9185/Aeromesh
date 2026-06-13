@@ -1,6 +1,5 @@
 # AeroMesh: Flight Telemetry to 3D Assembly 🛩️ 🏔️
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
 A Python geospatial pipeline that transforms 2D aviation track logs (ForeFlight KMLs) into physical, multi-color 3D printable models. 
@@ -12,7 +11,7 @@ Looking at a 2D line on an iPad screen doesn't capture altitude changes or the p
 
 **AeroMesh automates this.** It reads a flight log, downloads the real-world Earth below it, extrudes the city skyline, engineers its own intermittent support pylons based on true AGL (Altitude Above Ground Level), and bakes AMS colors directly into a `.3mf` file.
 
-You just drag it into Bambu Studio, assign your spools, and hit print.
+You just drag it into Slicer, assign your spools, and hit print.
 
 ## How It Works Under the Hood
 1. **Coordinate Normalization:** Parses WGS 84 (Lat/Lon/Alt) telemetry and dynamically frames a bounding box, mapping the spherical Earth to a flat Cartesian plane in millimeters.
