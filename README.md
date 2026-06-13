@@ -26,6 +26,6 @@ You just drag it into Slicer, assign your spools, and hit print.
 Clone the repository and install the geospatial requirements:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/AeroMesh.git](https://github.com/YOUR_USERNAME/AeroMesh.git)
+git clone [git@github.com:Jay9185/Aeromesh.git)
 cd AeroMesh
 pip install -r requirements.txt
