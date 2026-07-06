@@ -4,7 +4,9 @@
 
 A Python geospatial pipeline that transforms 2D aviation track logs (ForeFlight KMLs) into physical, multi-color 3D printable models. 
 
-<img width="1920" height="1080" alt="model" src="https://github.com/user-attachments/assets/1b895ae3-fd6a-4344-a69e-e26e4cf27ed1" />
+<img width="10240" height="5400" alt="new render1" src="https://github.com/user-attachments/assets/bfe4687f-f310-4ae0-bade-fc688c952c76" />
+
+
 
 ## The Concept
 Looking at a 2D line on an iPad screen doesn't capture altitude changes or the physical scale of the terrain you are flying over. Generating 3D prints from GPS tracks usually involves heavy manual CAD work, slicing solid blocks of plastic, and tedious hand-painting. 
