@@ -4,6 +4,9 @@
 
 A Python geospatial pipeline that transforms 2D aviation track logs (ForeFlight KMLs) into physical, multi-color 3D printable models. 
 
+> 📖 **About the author:** Built by Jay Bhatiya, a cadet pilot training at Phoenix Deer Valley (KDVT). I write about flight training, aviation tech and the tools I build at **[TurbulenceGains](https://turbulencegains.com/)**. [See all my projects](https://turbulencegains.com/about/#projects).
+
+
 <img width="10240" height="5400" alt="new render1" src="https://github.com/user-attachments/assets/bfe4687f-f310-4ae0-bade-fc688c952c76" />
 
 
